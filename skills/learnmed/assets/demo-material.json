@@ -1,0 +1,8 @@
+{
+  "sources": [
+    {"id": "S1", "title": "自编生理学示例A", "locator": "第1节（无页码）", "verification": "verified", "excerpt": "心输出量由心率和每搏量共同决定。"}
+  ],
+  "concepts": [
+    {"id": "K1", "title": "心输出量的决定因素", "topic": "生理学/循环", "priority": "core", "priority_reason": "自编材料的核心关系", "source_ids": ["S1"], "verification": "verified", "prompt": "心输出量由哪两个量共同决定？", "answer": "心率和每搏量。", "estimated_minutes": 2, "aliases": ["每分钟泵血量的决定因素"], "related_ids": [], "tags": ["机制"]}
+  ]
+}

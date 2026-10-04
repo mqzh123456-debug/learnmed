@@ -1,0 +1,12 @@
+# 学习资料和个人作答只保存在本地。
+learning-data/
+*.learnmed.json
+*.learnmed.json.lock
+*.learnmed.json.*.tmp
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+!.env.example

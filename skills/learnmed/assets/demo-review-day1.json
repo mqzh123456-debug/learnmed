@@ -1,0 +1,7 @@
+{
+  "id": "demo-2026-10-04-01", "date": "2026-10-04", "minutes": 5,
+  "attempts": [
+    {"concept_id": "K1", "prompt": "心输出量由哪两个量共同决定？", "user_answer": "心率与每搏量", "expected_answer": "心率和每搏量。", "source_ids": ["S1"], "result": "correct", "confidence": "medium", "kind": "recall", "hint": "none"}
+  ],
+  "notes": "自编模拟，非真实学生记录。"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "demo-2026-10-05-01", "date": "2026-10-05", "minutes": 5,
+  "attempts": [
+    {"concept_id": "K1", "prompt": "简化情境中，心率不变、每搏量增加时心输出量怎样变化？", "user_answer": "增加，因为每次泵出更多血而次数没变。", "expected_answer": "增加；心率不变而每搏量增加。", "source_ids": ["S1"], "result": "correct", "confidence": "high", "kind": "application", "hint": "none"}
+  ],
+  "notes": "自编模拟，非真实学生记录。"
+}

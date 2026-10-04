@@ -1,0 +1,6 @@
+interface:
+  display_name: "LearnMed 医学生学习助手"
+  short_description: "教材导读、机制理解、自测纠错与跨天复习，让医学知识每天积累"
+  default_prompt: "请用 $learnmed 带我学习这段医学教材，根据我的回答检测理解，并保存今天的学习记录以便明天复习。"
+policy:
+  allow_implicit_invocation: true
